@@ -2,7 +2,6 @@
   "name": "react-experiments",
   "version": "1.0.0",
   "description": "",
-  "private": true,
   "scripts": {
     "start": "react-scripts start",
     "test": "react-scripts test",
